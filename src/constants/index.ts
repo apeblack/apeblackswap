@@ -23,14 +23,14 @@ export const CZUSD = new Token(
   'CZodiac Stablecoin'
 )
 
-export const CZF = new WrappedTokenInfo(
+export const APBK = new WrappedTokenInfo(
   {
     chainId:56,
-    address:"0x7c1608C004F20c3520f70b924E2BfeF092dA0043",
-    name: "CZodiac Farm",
-    decimals:18,
-    symbol:"CZF",
-    logoURI:"https://cz.cash/images/tokens/CZF.png"
+    address:"0x3705496eE4614f7fE939E410f5A03dF988148e50",
+    name: "ApeBlack",
+    decimals:9,
+    symbol:"APBK",
+    logoURI:"https://photos.app.goo.gl/SbZMBKmqcCBFHFGe8"
   },[]
 )
 
